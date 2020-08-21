@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Honeywell.CodeExercise.DataBase\Honeywell.CodeExercise.DataBase.csproj" />
+    <ProjectReference Include="..\Honeywell.CodeExercise.Model\Honeywell.CodeExercise.Model.csproj" />
+  </ItemGroup>
+
+</Project>
